@@ -3,7 +3,7 @@ PATH
   specs:
     rails-i18n (4.0.1)
       i18n (~> 0.6)
-      rails (~> 4.0)
+      rails (>= 4.0)
 
 GEM
   remote: https://rubygems.org/
@@ -56,7 +56,7 @@ GEM
       terminal-table
     iso (0.2.0)
       i18n
-    json (1.8.1)
+    json (2.5.1)
     mail (2.5.4)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
